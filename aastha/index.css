@@ -1,0 +1,15 @@
+h1{
+    color: #000000
+}
+body{
+    background-color: #000000;
+}
+.header{
+    font-style: oblique;
+    background-color:white  ;
+display:flex ;
+justify-content : space-between;
+}
+p{ 
+  color: #ffffff ;
+}
